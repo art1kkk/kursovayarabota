@@ -1,1 +1,1 @@
-# kursovayarabota
+Для запуска вам потребуется Qt Creator 10.0.1
